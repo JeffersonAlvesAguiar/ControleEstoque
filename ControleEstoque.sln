@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleEstoque.Server", "ControleEstoque.Server\ControleEstoque.Server.csproj", "{19B6D64C-8C12-4C8D-A6F5-41A18674D5EE}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "controleestoque.client", "controleestoque.client\controleestoque.client.esproj", "{C19A7849-71FD-489F-9A4E-299601EDFB45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B6D64C-8C12-4C8D-A6F5-41A18674D5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B6D64C-8C12-4C8D-A6F5-41A18674D5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B6D64C-8C12-4C8D-A6F5-41A18674D5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B6D64C-8C12-4C8D-A6F5-41A18674D5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19A7849-71FD-489F-9A4E-299601EDFB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19A7849-71FD-489F-9A4E-299601EDFB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19A7849-71FD-489F-9A4E-299601EDFB45}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C19A7849-71FD-489F-9A4E-299601EDFB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19A7849-71FD-489F-9A4E-299601EDFB45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19A7849-71FD-489F-9A4E-299601EDFB45}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B827B89F-D8FF-466E-9923-7872CBB23391}
+	EndGlobalSection
+EndGlobal
